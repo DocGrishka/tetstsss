@@ -1,0 +1,6 @@
+SQLAlchemy
+pymorphy2
+discord.py
+aiohttp
+websockets
+chardet
